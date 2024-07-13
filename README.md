@@ -6,7 +6,7 @@ The packs are listed in numerical order (0-F)
 A .ebmused file is given to have the ebmused names to be the same as the categorized names, for ease of searching
 
 The instrument packs, and pack 01, have not been touched at the moment, but at some point I will
-categorize them, but for now, here's a good resource! https://gist.github.com/livvy94/cb70ddd4c5309c0c52e662f985d6648b
+categorize them, but for now, here's a good resource to figure out which pack is which: https://gist.github.com/livvy94/cb70ddd4c5309c0c52e662f985d6648b
 
 If any errors are spotted, please let me know!
 
